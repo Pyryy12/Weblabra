@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body> 
+<style>
+body {
+  background-color: red;
+}
+body {
+  font-family: "helvetica", georgia, serif;
+}
+</style>
+<style>
+
+p.normal {
+  font-style: helvetica;
+}
+
+
+
+
+</style>
+
+
+
+
+<h1 style="text-align: center;">Ravintola lapintaika</h1>
+
+<h2 style="text-align: center;">Ruokalista</h2>
+
+<ul>
+    <li style="text-align: center;"><h4>Maanantai</h4>
+
+        Juusto-vihanneskeittoa ja kokin sämpylä Paistettua lohta, sinappikastiketta, tilliperunoita ja kasviksia Marjakiisseliä ja hunajakermavaahtoa</li>
+    <li style="text-align: center;"><h4>Tiistai</h4>Kana-fetajustosalaattia ja kokin sämpylä Paistettua punakampelaa, pinaattikastiketta ja perunamuusia Pannukakkua, mansikkahilloa ja kermavaahtoa</li>
+    <li style="text-align: center;"><h4>Keskiviikko</h4>Tomaatti-yrttikeittoa ja kokin sämpylä Kalkkunaleikettä, BBQ-kastiketta, riisiä ja kasviksia Omenapiirakkaa ja vaniljakastiketta
+
+        <li style="text-align: center;">Torstai</li>
+    <li style="text-align: center;"><h4>Torstai</h4>Rapukeittoa ja kokin sämpylä Poronkäristystä, perunamuusia, puolukkahilloa ja suolakurkkuja Hedelmäsalaattia ja kinuskikastiketta</li>
+    <li style="text-align: center;"><h4>Perjantai</h4>Savulohisalaatti ja kokin sämpylä Naudan paahtopaistia, punaviinikastiketta, kermaperunat ja kasviksia Suklaamousse</li>
+  </ul>
+
+  <h3 style="text-align: center;">Lounas 11.90 euroa johon sisältyy ruoka ja juoma (vesi, maito tai kotikalja).</h3>
+  
+
+
+  <h2 style="text-align: center;">Ravintolan yhteystiedot</h2>
+  <ul>
+<li style="text-align: center;">Ravintola Lapintaika, Ravintolakatu 2, 98765 LAPINMAA</li>
+<li style="text-align: center;">Puh. (012) 345 6789 Sähköposti: varaukset@jokuposti.net</li>
+<li style="text-align: center;">aukioloajat: ma - pe, 10:30 - 15:00</li>
+<li style="text-align: center;"><a href="file:///C:/Users/gr289380/Desktop/ravintola2.html">linkki asiakaspalautelomakkeeseen</a></li>
+
+
+
+  </ul>
+
+
+
+
+
+   </style>
+
+
+
+</body>
