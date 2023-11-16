@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body> 
+<h2>Asiakaspalautelomake</h2>
+<style>
+body {
+    background-color: red;
+  }
+
+  body {
+  font-family: "helvetica", georgia, serif;
+}
+
+  
+  p.normal {
+  font-style: helvetica;
+}
+</style>
+<form>
+    <label for="fname">Milloin kävit ravintolassa?:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Kuinka kauan ruuassa kesti saapua?:</label><br>
+    <input type="text" id="lname" name="lname">
+</form>
+<form>
+    <label for="lname">Oliko ruoka hyvän makuista?:</label><br>
+    <input type="text" id="lname" name="lname">
+</form>
+    <label for="lname">Oliko ruoan lämpötila sopiva?:</label><br>
+    <input type="text" id="lname" name="lname">
+    <form>
+</form>
+    <label for="lname">Piditkö ruoan ulkonäöstä?:</label><br>
+    <input type="text" id="lname" name="lname">
+    <form>
+</form>
+    <label for="lname">Oliko ruoan hinta sopiva?:</label><br>
+    <input type="text" id="lname" name="lname">
+    <form>
+</form>
+    <label for="lname">Oliko Palvelu hyvää?:</label><br>
+    <input type="text" id="lname" name="lname">
+    <form>
+    <label for="lname">Muuta palautetta:</label><br>
+    <input type="text" id="lname" name="lname">
+  </form>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
